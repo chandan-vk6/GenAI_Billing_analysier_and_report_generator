@@ -1,0 +1,10 @@
+
+streamlit==1.36.0
+plotly==5.22.0
+matplotlib==3.9.0
+matplotlib-inline==0.1.7
+fpdf==1.7.2
+seaborn==0.13.2
+python-dotenv==1.0.1
+groq==0.9.0
+kaleido==0.2.1
